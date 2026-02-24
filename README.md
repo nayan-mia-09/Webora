@@ -7,13 +7,21 @@ It showcases digital services, branding solutions, and creative web design with 
 https://github.com/nayan-mia-09/Webora
 
 ##🚀 Features
+
 ✔ Modern and clean UI
+
 ✔ Fully responsive design
+
 ✔ Component-based architecture
+
 ✔ Smooth navigation
+
 ✔ Services & Portfolio sections
+
 ✔ Contact section
+
 ✔ Dark/Light mode support 
+
 ✔ 🎯 Custom animated cursor for enhanced user experience
 
 ## 🛠 Tech Stack
