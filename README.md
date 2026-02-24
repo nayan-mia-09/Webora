@@ -6,7 +6,7 @@ It showcases digital services, branding solutions, and creative web design with 
 ## Repository:
 https://github.com/nayan-mia-09/Webora
 
-##🚀 Features
+## 🚀 Features
 
 ✔ Modern and clean UI
 
@@ -25,32 +25,51 @@ https://github.com/nayan-mia-09/Webora
 ✔ 🎯 Custom animated cursor for enhanced user experience
 
 ## 🛠 Tech Stack
+
 React.js
+
 JavaScript (ES6+)
+
 Tailwind CSS & Custom Styling
+
 Responsive Web Design
 
 ## 📂 Project Structure
+
 Webora/
+
 ├── public/
+
 ├── src/
+
 │   ├── assets/
+
 │   ├── components/
+
 │   ├── App.jsx
+
 │   └── index.css
+
 ├── package.json
+
 └── README.md
 
 ## 📦 Installation
 
 git clone https://github.com/nayan-mia-09/Webora.git
+
 cd Webora
+
 npm install
+
 npm start
 
 ## 🎯 Purpose
+
 This project was built to demonstrate modern frontend development practices using React and to showcase a professional agency website layout with interactive UI elements.
 
 ## 👨‍💻 Author
+
 Nayan Mia
+
 GitHub: https://github.com/nayan-mia-09
